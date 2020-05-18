@@ -1,0 +1,75 @@
+.main{
+    width:1080px;
+    margin:15px auto;
+    /* border: 1px red solid; */
+}
+.Jump{
+    width:400px;
+    margin-left:320px; 
+    margin-top: 18px;  
+    
+}
+.jumpM{
+    border-top-left-radius: 3px;
+}
+
+.ge tr{
+    margin-top: 5px
+}
+.week{
+    height: 45px;
+    text-align: center;
+}
+.jumpM_W{
+    width: 300px;
+    height: 180px;
+    top:32%;
+    left:33%; 
+    position:fixed;
+    text-align: center;
+    background:#5BC0DE;
+    display: none;
+}
+.add_S_W_input{
+    margin-left:20%;
+}
+.add_S_W_btu{
+    margin-top: 10px;
+    margin-left: 70px;
+    float: left;
+}
+.date{  
+    width:1080px;
+    text-align:center;
+    margin:15px auto;
+    float: left;  
+/*     border: 1px red solid; */
+}
+
+/* data.php里面日程的样式 */
+.date_t{  
+    width:800px;
+    text-align:center;
+    margin-left:15px;
+    float: left; 
+    
+}
+.d-day:hover{
+    background: #e6e6e6;
+}
+.ym{
+    margin-left:-200px;
+}
+
+.date_td{
+    height:112px;
+    padding: 2px;
+}
+.right{
+    position:relative;
+    width: 250px;
+    height:720px;    
+    margin-left:10px;
+    float: left;
+    border: 1px #9f9f9f solid;   
+}
